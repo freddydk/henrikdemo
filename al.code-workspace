@@ -8,6 +8,9 @@
                     },
                     {
                         "path":  "demoapp.Test"
+                    },
+                    {
+                        "path":  "demoapp.PerformanceTest"
                     }
                 ],
     "settings":  {
